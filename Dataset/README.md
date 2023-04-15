@@ -1,0 +1,3 @@
+- The dataset we have used for our project is the bdd100k dataset
+- https://www.kaggle.com/datasets/solesensei/solesensei_bdd100k
+-  This dataset contains a collection of images and annotations related to autonomous driving. Specifically, it is a subset of the larger BDD100K dataset, which contains over 100,000 images and annotations for autonomous driving.
